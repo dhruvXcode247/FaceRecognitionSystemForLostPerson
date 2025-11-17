@@ -1,4 +1,4 @@
-# Find Missing Person using AI
+# FaceRecognitionSystemForLostPerson
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white&height=20)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=mediapipe&logoColor=white&height=20)
@@ -84,4 +84,4 @@ Thousands of people, especially children, go missing every day in India. Despite
 
 
 ### Vote of Thanks
-- Thanks to the [MediaPipe](https://mediapipe.dev/) team for their open-source face mesh solution, now powering this project!
+- Thanks to the [MediaPipe](https://mediapipe.dev/) team for their open-source face mesh solution, now powering this project!!
